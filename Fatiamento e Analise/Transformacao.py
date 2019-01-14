@@ -1,0 +1,13 @@
+mensagem  = '           tecnicos em informatica           '
+print(mensagem)
+print(mensagem.replace('informatica', 'eletroeletronica'))
+print(mensagem.upper())
+print(mensagem.lower())
+print(mensagem.capitalize())
+print(mensagem.title())
+print(mensagem.strip())
+print(mensagem.rstrip())
+print(mensagem.lstrip())
+m = (mensagem.split())
+print(m)
+print('*'.join(m))
